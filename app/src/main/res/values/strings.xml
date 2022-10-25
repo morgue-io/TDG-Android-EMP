@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">The Dhobi Ghat LDN</string>
+    <string name="tdg_logo">tdg-logo</string>
+    <string name="home">Home</string>
+    <string name="new_tasks">New Tasks</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="my_history">My History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Password</string>
+    <string name="hi_user">Hi User!</string>
+    <string name="mark_attendance">Mark Attendance</string>
+    <string name="loading">Loading...</string>
 </resources>
